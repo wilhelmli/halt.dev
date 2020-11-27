@@ -1,5 +1,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://halt.dev/TermsAndConditions.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/About.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/Archive.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/Development.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/Design.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/Manufacturing.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/MarketingAndDistribution.html</loc>
+	</url>
+	<url>
+		<loc>https://halt.dev/global.html</loc>
+	</url>
+	<url>
 		<loc>https://halt.dev/index.html</loc>
 	</url>
 </urlset>
