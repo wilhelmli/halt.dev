@@ -4909,7 +4909,7 @@ a {
 }
 .cid-sftxkBR4Yt .dropdown-menu,
 .cid-sftxkBR4Yt .navbar.opened {
-  background: #bbbbbb !important;
+  background: #ffffff !important;
 }
 .cid-sftxkBR4Yt .nav-item:focus,
 .cid-sftxkBR4Yt .nav-link:focus {
@@ -4943,7 +4943,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(187, 187, 187, 0);
+  background: rgba(255, 255, 255, 0);
 }
 .cid-sftxkBR4Yt .navbar.opened {
   transition: all 0.3s;
@@ -5083,7 +5083,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sftxkBR4Yt .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #bbbbbb;
+  background: #ffffff;
 }
 .cid-sftxkBR4Yt .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
